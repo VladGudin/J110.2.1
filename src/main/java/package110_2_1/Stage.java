@@ -1,2 +1,6 @@
-package package110_2_1;public enum Stage {
+package package110_2_1;
+
+public enum Stage {
+    BACHELOR,
+    MASTER;
 }
