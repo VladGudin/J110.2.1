@@ -9,6 +9,8 @@ public class Main {
        pull[3] = new StudentB("Anna Cunningham", Gender.FEMALE, "World economy",1, Stage.BACHELOR);
        pull[4] = new StudentB("Jill Lundqvist", Gender.FEMALE, "Jurisprudence", 1, Stage.MASTER);
        pull[5] = new StudentM("Ronald Correa", Gender.MALE, "Computer science", "Design of a functional programming language");
+
+
        Person.printAll(pull);
 
 
